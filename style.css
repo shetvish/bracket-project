@@ -1,0 +1,10 @@
+body{
+    background-color:blue;
+    text-align: center;
+        border-style:inset;
+}
+h1
+{
+    color: forestgreen;
+    border-style:dotted;
+}
